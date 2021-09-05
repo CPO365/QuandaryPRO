@@ -1,2 +1,4 @@
 # QuandaryPRO
-TalentID Search and Development
+Intelligent Recruitment Planning
+Integrated Recruitment Solution
+Predictive Recruitment Planning
